@@ -1,7 +1,7 @@
 # Introduction to Statistics in Python
 
 This is a course provided by [DataCamp](https://app.datacamp.com/).  
-You can see my certification [here]().
+You can see my certification [here](https://www.datacamp.com/statement-of-accomplishment/course/85f993df7b8d5646813780034e71bac4e935d32e?raw=1).
 
 ## Course Description
 
