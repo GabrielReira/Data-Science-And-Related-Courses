@@ -7,3 +7,4 @@ Here, you'll find the code I've developed in Data Science, Artificial Intelligen
 3. [Introduction to Statistics in Python](/Introduction%20to%20Statistics%20in%20Python/): [certificate](https://www.datacamp.com/statement-of-accomplishment/course/85f993df7b8d5646813780034e71bac4e935d32e)
 4. [Intro to Machine Learning](/Intro%20to%20Machine%20Learning/): [certificate](https://www.kaggle.com/learn/certification/gabrielreira/intro-to-machine-learning)
 5. [Intermediate Machine Learning](/Intermediate%20Machine%20Learning/): [certificate](https://www.kaggle.com/learn/certification/gabrielreira/intermediate-machine-learning)
+6. [Intro to Deep Learning](/Intro%20to%20Deep%20Learning/): [certificate](https://www.kaggle.com/learn/certification/gabrielreira/intro-to-deep-learning)
