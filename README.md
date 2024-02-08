@@ -11,3 +11,4 @@ Here, you'll find the code I've developed in Data Science, Artificial Intelligen
 7. [Supervised Learning with scikit-learn](/Supervised%20Learning%20with%20scikit-learn/): [certificate](https://www.datacamp.com/statement-of-accomplishment/course/2ca025d9d04d86120053134091410d70572f1437)
 8. [Project - Predictive Modeling for Agriculture](/Project%20-%20Predictive%20Modeling%20for%20Agriculture/)
 9. [Unsupervised Learning in Python](/Unsupervised%20Learning%20in%20Python/): [certificate](https://www.datacamp.com/statement-of-accomplishment/course/2dd183f8bfacbe33723c38dd852ae2bfa916a959)
+10. [Project - Clustering Antarctic Penguin Species](/Project%20-%20Clustering%20Antarctic%20Penguin%20Species/)
