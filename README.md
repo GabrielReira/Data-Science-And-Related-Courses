@@ -16,3 +16,4 @@ Here, you'll find the code I've developed in Data Science, Artificial Intelligen
 12. [Introduction to Deep Learning with PyTorch](/Introduction%20to%20Deep%20Learning%20with%20PyTorch/): [certificate](https://www.datacamp.com/statement-of-accomplishment/course/2514d91e48ec10cd25e7d71cf466dd9ba5786cb2)
 13. [Machine Learning Crash Course with TensorFlow APIs](/Machine%20Learning%20Crash%20Course%20with%20TensorFlow%20APIs/)
 14. [Time Series Analysis in Python](/Time%20Series%20Analysis%20in%20Python/): [certificate](https://www.datacamp.com/statement-of-accomplishment/course/48e59754c9df2dff6fbc7065211f31f019fbf442)
+15. [Visualizing Time Series Data in Python](/Visualizing%20Time%20Series%20Data%20in%20Python/): [certificate](https://www.datacamp.com/statement-of-accomplishment/course/e2f2f10dd551288b2e72db75cc8581a98fb1baa8)
